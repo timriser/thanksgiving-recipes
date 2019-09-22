@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: indexMD
 ---
-## Is this thing on?
+### Welcome to my little website
