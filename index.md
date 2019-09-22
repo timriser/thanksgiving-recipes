@@ -6,18 +6,4 @@ layout: home
 ---
 ### Hi! I'm Tim, and this is my website.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                
+Today's exhibit is a piece by a local artist entitled: "Three years without a single commit"
